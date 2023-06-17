@@ -1,0 +1,16 @@
+{
+  "name": "cookie-ts",
+  "version": "1.0.1",
+  "description": "cookie-ts",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["cookie", "cookie-ts"],
+  "author": "dearsen",
+  "contributors": [
+    {
+      "name": "dearsen",
+      "email": "deardin@outlook.com"
+    }
+  ],
+  "license": "MIT"
+}
